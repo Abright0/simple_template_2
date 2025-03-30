@@ -17,22 +17,3 @@ main {
     max-width: 600px;
     margin: 0 auto;
 }
-form {
-    display: flex;
-    flex-direction: column;
-}
-label {
-    margin: 10px 0 5px;
-}
-input, textarea {
-    padding: 5px;
-    margin-bottom: 10px;
-}
-input[type="submit"] {
-    width: 100px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-}

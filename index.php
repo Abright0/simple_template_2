@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - Simple PHP Site</title>
+    <title>Home - Static PHP Site</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple PHP Site</h1>
+        <h1>Welcome to My Static Site</h1>
         <nav>
             <a href="index.php">Home</a> | 
             <a href="about.php">About</a> | 
@@ -16,8 +16,8 @@
         </nav>
     </header>
     <main>
-        <p>This is a basic PHP website deployed on Railway.</p>
-        <p>Current time: <?php echo date("Y-m-d H:i:s"); ?></p>
+        <p>This is a static PHP site hosted on a DigitalOcean Droplet.</p>
+        <p>Last updated: <?php echo date("Y-m-d"); ?></p>
     </main>
 </body>
 </html>

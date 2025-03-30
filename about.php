@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Simple PHP Site</title>
+    <title>About - Static PHP Site</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>About Us</h1>
+        <h1>About This Site</h1>
         <nav>
             <a href="index.php">Home</a> | 
             <a href="about.php">About</a> | 
@@ -16,7 +16,7 @@
         </nav>
     </header>
     <main>
-        <p>This site is a demo built with PHP and hosted on Railway.</p>
+        <p>A simple static site built with PHP, hosted cheaply on DigitalOcean.</p>
     </main>
 </body>
 </html>
