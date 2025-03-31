@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Static PHP Site</title>
+    <title>Contact - Leuconitocris Bicoloricornis</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,8 +16,8 @@
         </nav>
     </header>
     <main>
-        <p>Email: example@domain.com</p>
-        <p>Phone: (123) 456-7890</p>
+        <p>Email: info@leuconitocrisbicoloricornis.org</p>
+        <p>Phone: (213) 123-1232</p>
     </main>
 </body>
 </html>
