@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore Leuconitocris bicoloricornis, an African longhorn beetle from the Cerambycidae family. Learn about its classification, possible habitat, and ecological role.">
     <title>Contact - Leuconitocris Bicoloricornis</title>
     <link rel="stylesheet" href="style.css">
 </head>
