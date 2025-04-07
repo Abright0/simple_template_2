@@ -20,7 +20,7 @@
     </header>
     <main>
         <p>Email: info@leuconitocrisbicoloricornis.org</p>
-        <p>Phone: (213) 123-1232</p>
+        <p>Phone: (213) 123-****</p>
     </main>
 </body>
 </html>
