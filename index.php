@@ -43,7 +43,7 @@
         This page shares reliable insights into <i>Leuconitocris bicoloricornis</i> based on what’s 
         currently known. More investigation is needed to uncover the full story of this intriguing 
         species.
-    </p>        <p>Last updated: <?php echo date("Y-m-d"); ?></p>
+    </p>
     </main>
 </body>
 </html>
